@@ -83,6 +83,10 @@ Linting to keep HTML clean
 
 GitHub Pages deployment (free hosting)
 
+📜 License
+
+This project is licensed under the MIT License.
+
 This is a source for a static website template which has been downloaded and configured with a contact us page. This template further consists of input text fields, labels, message box and a submit button down below.
 
 This is a template which has been sourced and referenced from W3.css.
